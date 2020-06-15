@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "clipboardy": "^2.3.0",
+    "ora": "^4.0.4",
+    "systeminformation": "^4.26.9"
+  },
+  "name": "fault-cli",
+  "version": "0.0.2",
+  "main": "spinner.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fault": "spinner.js"
+  },
+  "author": "Adam Siwiec",
+  "license": "MIT",
+  "description": ""
+}
